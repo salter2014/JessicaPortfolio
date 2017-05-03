@@ -1,0 +1,83 @@
+#Name{
+    padding: 10px;
+    display: block;
+    background-color:#8FBC8F;
+
+}
+
+#logo{
+    width:250px;
+    height: 60px; 
+    display: block;
+    background-color:#eee;
+    padding-top:5px;
+   font-family: Times New Roman;
+}
+
+.about{
+    font-size:10;
+}
+
+h2{
+	color:#4aaaa5;
+}
+
+h3{
+	color:#4aaaa5;
+
+}
+
+.footer{
+	margin-top: 500px;
+	background: #666666;
+    height: 60px; 
+    padding: 10px;
+    margin-bottom:1px;
+    display: block;
+    box-sizing: border-box;
+    width:100%;
+    color:white;
+    align-items: :center;
+}
+
+/*about me box*/
+.div1 {
+    width: 600px;
+    height: 375px;
+    padding: 1px;
+    margin: 30px;
+    /*margin-top: 70px;*/
+    margin-left: 50px;
+ 	float:left;
+ 	background: white;
+ 	border-color: #8FBC8F;
+ 	border-width: 5px;
+
+}
+#Pic{
+	
+	float: left;
+    padding:10px;
+    height: 200px
+    width:200px;
+    height:275px;
+}
+
+body{
+	background:url(file:///Users/jessicasalter/Downloads/swirl_pattern/swirl_pattern.png);
+    padding: 25px;
+    content: 960px;
+}
+/* connect with me box*/
+ .div2{
+ 	height: 150px;
+ 	width: 360px;
+    margin: 30px;
+ 	float:right;
+ 	background: white;
+ 	border-color: #8FBC8F;
+    border-width: 5px;
+  }
+
+p{
+	font-family: Georgia;
